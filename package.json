@@ -1,6 +1,6 @@
 {
     "name": "flexlayout-react",
-    "version": "0.6.9",
+    "version": "0.7.0",
     "description": "A multi-tab docking layout manager",
     "main": "lib/index.js",
     "types": "./declarations/index.d.ts",
@@ -36,8 +36,8 @@
     "repository": "https://github.com/caplin/FlexLayout",
     "license": "ISC",
     "peerDependencies": {
-        "react": "^18.0.0",
-        "react-dom": "^18.0.0"
+        "react": "^17.0.2 || ^18.0.0",
+        "react-dom": "^17.0.2 || ^18.0.0"
     },
     "eslintConfig": {
         "extends": "react-app"
